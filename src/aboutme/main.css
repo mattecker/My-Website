@@ -1,0 +1,52 @@
+.nav {
+	padding: 7px 15px 3px;
+	background-color: #efefef;
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.nav ins {
+	text-align: center;
+	text-decoration: none;
+	vertical-align: middle;
+}
+
+.picture {
+	height: auto;
+	width: 350px;
+}
+
+img {
+	max-width: 100%;
+}
+
+.contact {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.contact h2 {
+    color: #393c3d;
+    font-size: 24px;
+	text-align: center;
+}
+
+.contact p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+.thumbnail {
+	height: auto;
+	width: 64px;
+}
